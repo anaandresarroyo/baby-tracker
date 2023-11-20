@@ -1,0 +1,9 @@
+numpy >= 1.25         # numerical python
+pandas >= 2.0         # data frames
+jupyterlab >= 4.0     # jupyter notebooks
+matplotlib >= 3.7     # visualisations
+seaborn >= 0.12       # statistical visualisations
+ipympl >= 0.9         # matplotlib widgets
+pyprojroot >= 0.3     # project root folder
+black >= 23.7         # formatting
+nbqa >= 1.7           # notebook quality assurance
